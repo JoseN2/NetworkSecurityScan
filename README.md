@@ -28,13 +28,19 @@ I opened it and saw that it was Iner 10.0.2.15.
 
 ![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/e873f103-ad5c-4a1b-a2c6-47a267edbfdc)
 
-I also did a Ipconfig on my Host machine.
+I also did an Ipconfig on my Host machine.
 
+![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/470875f0-58db-41ba-8c34-57806ba37291)
 
+this is the Scan of the Router IP info 
 
+![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/a7f3b5fd-b578-4239-ba8f-f3fb46e9609a)
+![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/6a89ddb0-2575-4728-99d0-4c1d27797a0d)
 
-
+![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/faf65c8b-50f4-40c2-8d6a-a6ceda9ec059)
+![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/83b54d44-dd1b-40fa-b349-554627f77835)
 
 
 
 Using this info I did the [sudo nmap -O  10.0.2.15] to figure out what operating system my machine was running.
+sudo nmap -O -osscan-guess 10.0.2.0/24. When I ran the scan it successfully identified four responsive hosts within the specified subnet.10.0.2.2,10.0.2.3,10.0.2.4,10.0.2.15
