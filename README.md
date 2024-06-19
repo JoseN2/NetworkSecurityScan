@@ -14,3 +14,6 @@ Recognize the importance of keeping software updated to address vulnerabilities.
 - <b>Windows 10</b> 
 - <b>Oracle VM VirtualBox</b> 
 - <b>Kali Linux </b> 
+
+<h2>Program walk-through:</h2>
+![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/ce77ac4b-0adf-441c-ae26-29910c69cfc4)
