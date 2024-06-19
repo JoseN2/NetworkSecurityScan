@@ -16,4 +16,9 @@ Recognize the importance of keeping software updated to address vulnerabilities.
 - <b>Kali Linux </b> 
 
 <h2>Program walk-through:</h2>
-![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/ce77ac4b-0adf-441c-ae26-29910c69cfc4)
+
+![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/1dda1a46-ec1c-4393-bf74-a5e0fd87e011)
+
+Using the terminal I went into the desktop directory. There I created a new directory called NetworkProject. The first thing I did was use the ifconfig command and store it in a Txt file to figure out what my subnet was. I opened it and saw that it was Iner 10.0.2.15.
+
+Using this info I did the [sudo nmap -O  10.0.2.15] to figure out what operating system my machine was running.
