@@ -24,11 +24,11 @@ Using the terminal I went into the desktop directory. There I created a new dire
 
 ![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/0f841c66-749c-4152-bc95-148c1b03d544)
 
-I opened it and saw that Linux device ip address was Iner 10.0.2.15.
+I opened it and saw that the Linux device IP address was  10.0.2.15.
 
 ![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/e873f103-ad5c-4a1b-a2c6-47a267edbfdc)
 
-I also did an Ipconfig on my Host machine.
+I also did an ipconfig on my Host machine. To compare them
 
 ![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/470875f0-58db-41ba-8c34-57806ba37291)
 
