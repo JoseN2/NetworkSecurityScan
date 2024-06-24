@@ -19,12 +19,12 @@ Recognize the importance of keeping software updated to address vulnerabilities.
 
 ![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/1dda1a46-ec1c-4393-bf74-a5e0fd87e011)
 
-Using the terminal I went into the desktop directory. There I created a new directory called NetworkProject. The first thing I did was use the ifconfig command and store it in a Txt file to figure out what my subnet was. 
+Using the terminal I went into the desktop directory. There I created a new directory called NetworkProject. First, I used the ifconfig command and stored it in a Txt file to figure out what my subnet was. 
 
 
 ![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/0f841c66-749c-4152-bc95-148c1b03d544)
 
-I opened it and saw that the Linux device IP address was  10.0.2.15.
+I opened the ifconfig.TXT file I created and saw the Linux device IP address was 10.0.2.15.
 
 ![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/e873f103-ad5c-4a1b-a2c6-47a267edbfdc)
 
