@@ -35,9 +35,14 @@ I also did an ipconfig on my Host machine. To compare them
 this is the Scan of the Router IP info 
 
 ![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/a7f3b5fd-b578-4239-ba8f-f3fb46e9609a)
+
+
 Attempt to Guess an Unknown OS
 ![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/6a89ddb0-2575-4728-99d0-4c1d27797a0d)
+
+
 Service Version Detection
+
 ![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/faf65c8b-50f4-40c2-8d6a-a6ceda9ec059)
 ![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/83b54d44-dd1b-40fa-b349-554627f77835)
 
