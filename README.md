@@ -44,6 +44,5 @@ I also did an ipconfig on my Host machine. To compare them
 ![image](https://github.com/JoseN2/NetworkSecurityScan/assets/87278438/83b54d44-dd1b-40fa-b349-554627f77835)
 
 
-
 Using this info I did the [sudo nmap -O  10.0.2.15] to figure out what operating system my machine was running.
-sudo nmap -O -osscan-guess 10.0.2.0/24. When I ran the scan it successfully identified four responsive hosts within the specified subnet.10.0.2.2,10.0.2.3,10.0.2.4,10.0.2.15
+sudo nmap -O -osscan-guess 10.0.2.0/24. When I ran this scan it successfully identified four responsive hosts within the specified subnet.10.0.2.2,10.0.2.3,10.0.2.4,10.0.2.15
